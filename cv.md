@@ -22,7 +22,7 @@ let isPalindrom = text => (text) == text.split('').reverse().join('')
 #### Courses ####
 
 - *Rsschool stage 0*
-
+- *Rsschool stage 1 started*
 ### My English skills ###
 
 ***A2***
